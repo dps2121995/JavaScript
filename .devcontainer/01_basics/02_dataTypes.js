@@ -13,3 +13,10 @@ console.log(typeof null);
 console.log(typeof undefined)
 
 
+//Primitive
+//7 Types: String, Number, Boolean, null, undefined, Symbol, BigInt(Scientific value)
+
+//Reference (non-primitive)
+
+//Array, Objects, Functions ==>> These all are always object
+
